@@ -1,3 +1,3 @@
 De-Adblocker - Anti Adblocker
 
-* Put de-adblocker.html inside website body.
+* Put de-adblocker.html inside website body tag.
